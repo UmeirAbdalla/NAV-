@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: grey;
+    background-color: Blue;
+    
 
 }
 nav {
@@ -25,5 +26,6 @@ ul{
 .nav-list{
     text-decoration: none;
     list-style-type: none;
+    
     
 }
